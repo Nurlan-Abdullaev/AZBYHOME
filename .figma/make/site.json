@@ -1,0 +1,10 @@
+{
+  "description": "Streamline operations for home appliance stores with a modern CRM/ERP system designed for employees, enhancing efficiency and user experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
